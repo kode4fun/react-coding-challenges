@@ -13,7 +13,7 @@ const App = () => {
           <h2>World</h2>
         </div>
         <div className="flex-large">
-          <CountDown countStart={10} />
+          <CountDown countStart={5} />
         </div>
 
       </div>
