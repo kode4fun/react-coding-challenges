@@ -1,5 +1,5 @@
 import React from 'react'
-import CountDown from './Countdown'
+import CountDown2 from './Countdown2'
 
 const App = () => {
   return (
@@ -13,7 +13,7 @@ const App = () => {
           <h2>World</h2>
         </div>
         <div className="flex-large">
-          <CountDown countStart={5} />
+          <CountDown2 countStart={5} />
         </div>
 
       </div>
